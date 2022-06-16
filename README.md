@@ -1,5 +1,5 @@
 # HoriseonSS
-<!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 ![Product Name Screen Shot](./assets/images/Screenshot.jpeg)
