@@ -4,7 +4,7 @@
 
 ![Product Name Screen Shot](./assets/images/Screenshot.jpeg)
 
-This website is a landing page or Horiseon SEO Services. It is entirely driven by HTML an CSS and various corrections and refactors were made in order to make them more accesibility-friendly with the use of Semantic HTML tags
+This website is a landing page for Horiseon SEO Services. It is entirely driven by HTML and CSS and various corrections and refactors were made in order to make them more accessibility-friendly with the use of Semantic HTML tags
 
 * [Project Website](https://sebasmelendez.github.io/HoriseonSS/)
 * [Project Repo](https://github.com/SebasMelendez/HoriseonSS)
